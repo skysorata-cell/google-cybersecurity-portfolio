@@ -1,28 +1,32 @@
-# google-cybersecurity-portfolio
+# Google Cybersecurity Portfolio
 
-Hi, I'm a Quality Assurance professional transitioning into cybersecurity with a strong interest in Security Operations (SOC), log analysis, alert triage, and incident response documentation.
+Hi, I am a Quality Assurance professional transitioning into cybersecurity with a strong interest in Security Operations (SOC), log analysis, alert triage, and incident response.
 
-## What you'll find here
-- **Projects**: Portfolio-ready work demonstrating practical security knowledge (reports, case notes, incident journals)
-- **Labs**: Hands-on exercises and learning evidence
-- **Notes**: Glossary, playbook notes, and interview prep
+This repository showcases my learning progress, hands-on projects, and documentation developed through the Google Cybersecurity Certificate and related self-study.
 
-## Key strengths
-- Analytical thinking & attention to detail (QA background)
+## Career Focus
+- Junior SOC Analyst / Entry-Level Security Analyst
+- Interest areas: SIEM monitoring, incident response, log analysis, documentation
+
+## Key Strengths
+- Analytical thinking and attention to detail (QA background)
 - Clear documentation and reporting
-- Time management and structured investigation approach
+- Structured, process-driven investigation mindset
+- Strong ethical awareness and responsibility toward data protection
 
-## Career focus
-- Junior SOC Analyst / Security Analyst (Tier 1)
+## Portfolio Highlights
+- Professional Statement
+- Security Audit Documentation
+- Incident Handler’s Journal
+- SIEM Log Triage Case Notes
+- Linux Permissions & SQL Filtering Exercises
+- Python Automation (foundational)
 
-## Projects (highlights)
-1. Professional Statement — `PROJECTS/01-professional-statement/`
-2. Security Audit Report — `PROJECTS/02-security-audit/`
-3. Incident Handler’s Journal — `PROJECTS/03-incident-handler-journal/`
-4. SIEM Log Triage Case Notes — `PROJECTS/04-siem-log-triage/`
+## Tools & Concepts (Growing)
+- SIEM concepts, alert triage, incident response basics
+- Linux fundamentals
+- SQL for log filtering
+- Python for basic automation
 
-## Tools & topics (growing)
-- SIEM concepts, log analysis, incident response basics
-- Linux fundamentals, SQL filtering, Python automation (foundation)
+> Note: This portfolio contains only simulated, non-sensitive, and non-proprietary materials.
 
-> Note: This portfolio contains only non-sensitive, non-proprietary materials.
